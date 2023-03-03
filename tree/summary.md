@@ -4,7 +4,7 @@ description: The summary to the Pipe Docs
 lang: en
 ---
 
-¨flipSpeed(`docs/docs/?p=Getting_Started`)¨
+¨flipSpeed(`docs/docs/Getting-Started`)¨
 
 ¨comment(`Go to a JSON Viewer to modify this JSON Object. The function "sumary" support just one line. Minify the code before put here`)¨
 
